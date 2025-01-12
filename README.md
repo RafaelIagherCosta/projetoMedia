@@ -1,3 +1,3 @@
 # projetoMedia
  
-https://jquery-galeria-de-fotos-seven.vercel.app
+https://projeto-media-rust.vercel.app
